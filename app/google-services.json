@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367928526813",
+    "project_id": "e-marts-471f6",
+    "storage_bucket": "e-marts-471f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367928526813:android:a073d3489a209b7c2a9834",
+        "android_client_info": {
+          "package_name": "com.example.emarts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByetUxxmr7IN782pUp0h_U4tLDLwCimz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
